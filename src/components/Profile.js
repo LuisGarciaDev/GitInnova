@@ -41,7 +41,7 @@ const Profile = () => {
       </div>
       <div>
         <div className='m-5 text-center'>
-                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='100px'></img>
+                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='100px'/>
             </div>
             <div className="mb-2 text-center">
                 <p>Code By Luis Garcia</p>
