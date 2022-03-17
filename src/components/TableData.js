@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import { Table } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 //import ReactPaginate from 'react-paginate';
