@@ -35,7 +35,7 @@ const RegisterData = () => {
         <div className='container m-2 justify-content-center'>
             <div className='d-flex'>
             <div className='m-5 text-center'>
-                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='100px'/>
+                
             </div>
             <div className="mb-4 text-center">
                 <h3>Candidatos</h3>
