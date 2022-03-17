@@ -2,7 +2,7 @@ import React from 'react';
 import { useForm } from '../Hooks/useForm';
 import { useDispatch } from 'react-redux';
 import { loginEmailPassword, loginGoogle, loginFacebook } from '../action/actionlogin';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 const Login = () => {
@@ -35,7 +35,7 @@ const Login = () => {
     return (
         <div className='container justify-content-center'>
             <div className='text-center m-2'>
-                <img src='https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png' width='150px'></img>
+                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='150px'></img>
             </div>
         <div className='justify-content-center d-flex'>
         <form className='w-50 m-5' onSubmit={handleLogin}>

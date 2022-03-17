@@ -9,8 +9,8 @@ const Logout = () => {
 
     const dispatch = useDispatch();
 
-    //USER
-    const { name } = useSelector(state => state.login)
+ /*    //USER
+    const { name } = useSelector(state => state.login) */
     //console.log(name);
     const [isLoggedIn, setIsLoggedIn] = React.useState(false);
     React.useEffect(() => {

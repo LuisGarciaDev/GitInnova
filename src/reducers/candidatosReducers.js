@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { typesCandidatos } from '../types/types'
 
 const initialState ={
