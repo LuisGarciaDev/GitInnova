@@ -25,7 +25,7 @@ const Register = () => {
     return (
         <><div className='container justify-content-center'>
         <div className='text-center m-2'>
-                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='150px'></img>
+                <img src='https://res.cloudinary.com/dmdu8u7wo/image/upload/v1647500689/sprint3/GitHub-Logo_egw9im.png' width='150px'/>
             </div>
     <div className='justify-content-center d-flex'>
             <form className='w-50 m-2' onSubmit={handleRegistro}>
